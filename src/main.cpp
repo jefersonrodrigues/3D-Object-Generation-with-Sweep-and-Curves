@@ -19,9 +19,7 @@ int mx, my; //coordenadas do mouse
 //globais que podem ser setadas pelo metodo keyboard()
 void render()
 {
-    color(4);
-    circleFill( 100, 100, 40, 20);
-    circleFill( 160, 160, 30, 5);
+
 }
 
 //funcao para tratamento de mouse: cliques, movimentos e arrastos
